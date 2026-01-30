@@ -54,4 +54,3 @@
   Used to highlight important information.  
 
 - `&copy;` → HTML entity for the copyright symbol.  
-  Displays ©
